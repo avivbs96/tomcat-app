@@ -19,7 +19,7 @@
 
 <font size=4>
 <ul>
-<li>    Day of month: is  <jsp:getProperty name="clock" property="dayOfMonth"/>
+<li>    Day of changeeeeee: is  <jsp:getProperty name="clock" property="dayOfMonth"/>
 <li>    Year: is  <jsp:getProperty name="clock" property="year"/>
 <li>    Month: is  <jsp:getProperty name="clock" property="month"/>
 <li>    Time: is  <jsp:getProperty name="clock" property="time"/>
