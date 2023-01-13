@@ -1,7 +1,19 @@
+
+
+<style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+</style>
+
+
+<%@ page language="java" contentType="text/html"%>
+<%@ page import="java.text.*,java.util.*" %>
 <html>
-
-<%@ page session="false"%>
-
+  
+  
 <body bgcolor="white">
 <jsp:useBean id='clock' scope='page' class='dates.JspCalendar' type="dates.JspCalendar" />
 
@@ -22,4 +34,11 @@
 </font>
 
 </body>
-</html>
+  
+  
+  
+  
+  
+  
+  
+  </html>
